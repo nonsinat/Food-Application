@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.food_app_with_admin_panel_flutter">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="food_app_with_admin_panel_flutter"
         android:icon="@mipmap/ic_launcher">
