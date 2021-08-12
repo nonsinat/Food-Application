@@ -26,7 +26,7 @@ class ThemeConstant {
     primaryVariant: Color(0xFFECB102),
     secondary: Color(0xFF0B7326),
     secondaryVariant: Color(0xFFBFBFBF),
-    background: Color(0xFFF6F7F9),
+    background: Color(0xFFFBFBFB),
     surface: Color(0xFFEB4335),
     error: Color(0xFFB00020),
     onPrimary: Color(0xFFFFFFFF),
